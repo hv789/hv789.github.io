@@ -37,6 +37,7 @@
   padding: 10px 16px;
   color: #fff;
   font-size: 1.4em;
+  font-weight: 500;
   line-height: 1.6em;
   margin: 0;
   z-index: 10;
@@ -53,6 +54,7 @@
   font-weight: 400;
   display: block;
   font-size: 0.8em;
+  /* font-size: 2vw; */
 }
 .material-card h2:before,
 .material-card h2:after {
