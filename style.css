@@ -49,11 +49,11 @@
 }
 .material-card h2 span {
   display: block;
-  font-size: 36px;
+  font-size: 28px;
 }
 @media (max-width: 768px) {
   .material-card h2 span {
-    font-size: 2.5vw;
+    font-size: 24px;
   } 
 }
 .material-card h2 strong {
@@ -64,7 +64,7 @@
 }
 @media (max-width: 768px) {
   .material-card h2 strong {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 .material-card h2:before,
@@ -1255,6 +1255,8 @@ body {
   font-family: 'Raleway', sans-serif;
   font-weight: 300;
   font-size: 16px;
+  padding-left: 16px;
+  padding-right: 16px;
 }
 h1,
 h2,
